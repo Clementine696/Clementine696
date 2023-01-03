@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning ...
+- 🌱 I’m year 3 Applied Computer Science student at KMUTT
 
 <!--
 **Clementine696/Clementine696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
