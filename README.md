@@ -22,7 +22,7 @@
 
 - Email kanatemask@gmail.com
 
-- LinkedIn linkedin.com/in/kanatemask
+- LinkedIn https://www.linkedin.com/in/kanatemask
 
 
 <!--
