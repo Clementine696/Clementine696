@@ -18,6 +18,13 @@
 - SQL
 - MongoDB
 
+## Contact
+
+- Email kanatemask@gmail.com
+
+- LinkedIn linkedin.com/in/kanatemask
+
+
 <!--
 **Clementine696/Clementine696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
