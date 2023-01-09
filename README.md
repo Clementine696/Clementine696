@@ -6,7 +6,18 @@
 
 
 ## Skill
-- HTML CSS JS
+### Coding
+- C
+- C++
+- Java
+- HTML
+- CSS
+- Javascript
+- Python
+### Database
+- SQL
+- MongoDB
+
 <!--
 **Clementine696/Clementine696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
