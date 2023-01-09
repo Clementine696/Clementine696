@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my github profile
+
+
+## About me
 - 🌱 I’m year 3 Applied Computer Science student at KMUTT
 
+
+## Skill
+- HTML CSS JS
 <!--
 **Clementine696/Clementine696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
