@@ -4,6 +4,7 @@
 ## About me
 - ✋🏻 I'm Kanate Boonsiri or you can call me Mask.
 - 🌱 I'm a 3rd year student in applied computer science, KMUTT.
+- 🔭 I’m currently working on Flutter and Python
 
 
 ## Language & Tools
