@@ -1,4 +1,5 @@
-![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/212176087-90d0dd18-3e9f-46a7-a193-b1871d4a5933.gif)
+![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/212176416-b652fde5-838e-4415-be25-8b069070aedf.gif)
+
 
 ## About me
 
