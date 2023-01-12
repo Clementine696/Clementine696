@@ -1,7 +1,7 @@
-![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/211836870-8727ace4-f2d1-406e-8cd0-3de6b88a8737.gif)
-
+![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/212176087-90d0dd18-3e9f-46a7-a193-b1871d4a5933.gif)
 
 ## About me
+
 - ✋🏻 I'm Kanate Boonsiri or you can call me Mask.
 - 🌱 I'm a 3rd year student in applied computer science, KMUTT.
 - 🔭 I’m currently working on Flutter and Python.
