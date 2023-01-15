@@ -1,7 +1,5 @@
 ![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/212176416-b652fde5-838e-4415-be25-8b069070aedf.gif)
 
-![](https://komarev.com/ghpvc/?username=Clementine696)
-
 ## About me
 
 - ✋🏻 I'm Kanate Boonsiri or you can call me Mask.
@@ -32,6 +30,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+![](https://komarev.com/ghpvc/?username=Clementine696)
 <!--
 **Clementine696/Clementine696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
