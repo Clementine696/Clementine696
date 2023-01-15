@@ -1,5 +1,6 @@
 ![Kanate Boonsiri](https://user-images.githubusercontent.com/53567265/212176416-b652fde5-838e-4415-be25-8b069070aedf.gif)
 
+![](https://komarev.com/ghpvc/?username=Clementine696)
 
 ## About me
 
