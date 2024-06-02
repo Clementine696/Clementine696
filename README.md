@@ -5,7 +5,7 @@
 - ✋🏻 I'm Kanate Boonsiri or you can call me Mask.
 - 🌱 I'm a 4th year student in applied computer science, KMUTT.
 - 🔭 I’m currently working on MERN.
-- 💬 I'm interested in Backend Development and Data Science.
+- 💬 I'm interested in Full-Stack Development and Data Science.
 - 💻 I love and enjoy coding!
 
 
