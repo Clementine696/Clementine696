@@ -17,7 +17,6 @@ Full Stack Engineer based in Thailand, currently building backend systems and da
 - **PMP** — e-commerce order management system built on microservices
 - **LUKE** — data warehouse and financial reconciliation platform
 - **Pricehawk** — price comparison platform across retailers
-- 
 
 ---
 
