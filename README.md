@@ -1,18 +1,19 @@
 # Hi, I'm Mask 👋
 
-Full Stack Engineer based in Thailand, currently building backend systems and data platforms at RIS (Central Group). I'm interested in microservices architecture, distributed systems, and data engineering.
+Software Engineer based in Thailand, currently working at Bangkok Bank. I have experience building backend systems and data platforms, with interests in microservices architecture, distributed systems, and data engineering.
 
 ---
 
 ## About
 
-- Full Stack Engineer at **RIS (Central Group)** — Oct 2024 – Present
+- Software Engineer at **Bangkok Bank** — Jul 2026 – Present
+- Previously a Full Stack Developer at **RIS (Central Group)** — Oct 2024 – Jun 2026
 - Previously a **Data Science Intern at Krungsri (Bank of Ayudhya)** — 2023
 - BSc Applied Computer Science, **KMUTT** — First Class Honours, GPAX 3.70 (2024)
 
 ---
 
-## Currently Working On
+## Selected Work
 
 - **PMP** — e-commerce order management system built on microservices
 - **LUKE** — data warehouse and financial reconciliation platform
