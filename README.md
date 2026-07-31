@@ -92,6 +92,7 @@ First Class Honours · GPAX 3.70 · Graduated 2024
 
 [![Email](https://img.shields.io/badge/kanatemask@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanatemask@gmail.com)
 [![GitHub](https://img.shields.io/badge/Clementine696-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Clementine696)
+[![LinkedIn](https://img.shields.io/badge/kanatemask-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanatemask/)
 
 ---
 ![](https://komarev.com/ghpvc/?username=Clementine696&style=flat-square&color=grey)
